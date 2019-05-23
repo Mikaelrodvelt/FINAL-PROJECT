@@ -1,13 +1,18 @@
+------------------------------------------------------------------
+THIS PROJECT WAS MADE BY CANDIDATES 127,113,118
+------------------------------------------------------------------
+
 THIS TEXT FILE IS MEANT TO HELP THE READER RUN THE CODE PROPERLY.
 
 THIS PROJECT WAS MADE WITH AND SHOULD WORK WITH JAVA 9
+
 ------------------------------------------------------------------
 To start using the code provided, follow these steps:
 
 If you have not already downloaded Java SDK, download it Java SE Development kit.
 THEN
 Go to 'file' in the top navigational bar, select 'project structure'.
-You will find the Project SDK settings. Select any SDK after version 8
+You will find the Project SDK settings. Select any SDK from version 8 or later.
 Also right underneath this setting, there is a dropdown for Language level.
 SELECT DEFAULT. IF THIS DOES NOT WORK, FIND THE OPTION THAT FITS THE SDK VERSION.
 
