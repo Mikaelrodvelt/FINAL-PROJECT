@@ -9,7 +9,7 @@ THIS PROJECT WAS MADE WITH AND SHOULD WORK WITH JAVA 9
 ------------------------------------------------------------------
 To start using the code provided, follow these steps:
 
-If you have not already downloaded Java SDK, download it Java SE Development kit.
+If you have not already downloaded Java SDK, download it from Java SE Development kit.
 THEN
 Go to 'file' in the top navigational bar, select 'project structure'.
 You will find the Project SDK settings. Select any SDK from version 8 or later.
@@ -18,7 +18,7 @@ SELECT DEFAULT. IF THIS DOES NOT WORK, FIND THE OPTION THAT FITS THE SDK VERSION
 
 
 If you have not already downloaded Apache Jena, visit Apache Jena's website and
-download the jar file.
+download it from there.
 THEN 
 Go to 'file' in the top navigational bar, select 'project structure'.
 You will find a category called 'Libraries'. Select this and click on the '+' sign down left in this module.
