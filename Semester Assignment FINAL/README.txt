@@ -21,7 +21,6 @@ Navigate to the place you've downloaded the Jena folder and enter this folder.
 Enter the folder that says 'lib' and select this folder to add it to the project structure library.
 
 
-
 NOTE: TO RUN THIS CODE EITHER COMMENT OUT THE JSOUP CLASS OR FOLLOW THESE STEPS:
 If you have not already downloaded Jsoup, download it from Jsoup.org
 THEN
@@ -47,5 +46,6 @@ Step 2:
 	click it. There will pop up some options, click on the one that say: "Copy Path"
 	Then replace the current string with the one you just copied.
 
+------------------------------------------------------------------
 Run the class called 'Main'. This will run our program in an interface.
 If you do not select anything and then press 'Search' after opening the interface, every movie will be returned with their movie title.
